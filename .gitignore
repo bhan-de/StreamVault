@@ -1,0 +1,10 @@
+# virtual environment (rebuilt from requirements.txt, never committed)
+.venv/
+# secrets: the TMDb token lives here on a laptop
+.env
+# fetched / generated data (rebuilt by run.py)
+data/raw/
+data/processed/
+*.sqlite
+__pycache__/
+.pytest_cache/

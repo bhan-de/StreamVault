@@ -1,0 +1,227 @@
+tmdb_id,title,check,detail
+8587,The Lion King,single_film_collection,only film of 'The Lion King Collection' on the list
+9806,The Incredibles,single_film_collection,only film of 'The Incredibles Collection' on the list
+274,The Silence of the Lambs,single_film_collection,only film of 'The Hannibal Lecter Collection' on the list
+41513,The Smurfs,single_film_collection,only film of 'The Smurfs (Theatrical) Collection' on the list
+78,Blade Runner,single_film_collection,only film of 'Blade Runner Collection' on the list
+578,Jaws,single_film_collection,only film of 'Jaws Collection' on the list
+585,"Monsters, Inc.",single_film_collection,"only film of 'Monsters, Inc. Collection' on the list"
+76341,Mad Max: Fury Road,single_film_collection,only film of 'Mad Max Collection' on the list
+620,Ghostbusters,single_film_collection,only film of 'Ghostbusters Collection' on the list
+165,Back to the Future Part II,pre_cutoff_release,released 1989
+242,The Godfather Part III,pre_cutoff_release,released 1990
+8077,Alien³,pre_cutoff_release,released 1992
+680,Pulp Fiction,pre_cutoff_release,released 1994
+8587,The Lion King,pre_cutoff_release,released 1994
+1573,Die Hard 2,pre_cutoff_release,released 1990
+769,GoodFellas,pre_cutoff_release,released 1990
+105,Back to the Future,pre_cutoff_release,released 1985
+679,Aliens,pre_cutoff_release,released 1986
+1892,Return of the Jedi,pre_cutoff_release,released 1983
+11,Star Wars,pre_cutoff_release,released 1977
+278,The Shawshank Redemption,pre_cutoff_release,released 1994
+863,Toy Story 2,pre_cutoff_release,released 1999
+1572,Die Hard: With a Vengeance,pre_cutoff_release,released 1995
+1893,Star Wars: Episode I - The Phantom Menace,pre_cutoff_release,released 1999
+603,The Matrix,pre_cutoff_release,released 1999
+862,Toy Story,pre_cutoff_release,released 1995
+274,The Silence of the Lambs,pre_cutoff_release,released 1991
+87,Indiana Jones and the Temple of Doom,pre_cutoff_release,released 1984
+562,Die Hard,pre_cutoff_release,released 1988
+1891,The Empire Strikes Back,pre_cutoff_release,released 1980
+111,Scarface,pre_cutoff_release,released 1983
+78,Blade Runner,pre_cutoff_release,released 1982
+329,Jurassic Park,pre_cutoff_release,released 1993
+238,The Godfather,pre_cutoff_release,released 1972
+240,The Godfather Part II,pre_cutoff_release,released 1974
+348,Alien,pre_cutoff_release,released 1979
+13,Forrest Gump,pre_cutoff_release,released 1994
+429,"The Good, the Bad and the Ugly",pre_cutoff_release,released 1966
+85,Raiders of the Lost Ark,pre_cutoff_release,released 1981
+550,Fight Club,pre_cutoff_release,released 1999
+954,Mission: Impossible,pre_cutoff_release,released 1996
+578,Jaws,pre_cutoff_release,released 1975
+280,Terminator 2: Judgment Day,pre_cutoff_release,released 1991
+89,Indiana Jones and the Last Crusade,pre_cutoff_release,released 1989
+424,Schindler's List,pre_cutoff_release,released 1993
+196,Back to the Future Part III,pre_cutoff_release,released 1990
+218,The Terminator,pre_cutoff_release,released 1984
+330,The Lost World: Jurassic Park,pre_cutoff_release,released 1997
+620,Ghostbusters,pre_cutoff_release,released 1984
+8078,Alien Resurrection,pre_cutoff_release,released 1997
+155,The Dark Knight,budget_is_round_estimate,budget is a whole number of millions
+165,Back to the Future Part II,budget_is_round_estimate,budget is a whole number of millions
+242,The Godfather Part III,budget_is_round_estimate,budget is a whole number of millions
+49026,The Dark Knight Rises,budget_is_round_estimate,budget is a whole number of millions
+8077,Alien³,budget_is_round_estimate,budget is a whole number of millions
+331,Jurassic Park III,budget_is_round_estimate,budget is a whole number of millions
+680,Pulp Fiction,budget_is_round_estimate,budget is a whole number of millions
+58,Pirates of the Caribbean: Dead Man's Chest,budget_is_round_estimate,budget is a whole number of millions
+10138,Iron Man 2,budget_is_round_estimate,budget is a whole number of millions
+673,Harry Potter and the Prisoner of Azkaban,budget_is_round_estimate,budget is a whole number of millions
+955,Mission: Impossible II,budget_is_round_estimate,budget is a whole number of millions
+8587,The Lion King,budget_is_round_estimate,budget is a whole number of millions
+674,Harry Potter and the Goblet of Fire,budget_is_round_estimate,budget is a whole number of millions
+1573,Die Hard 2,budget_is_round_estimate,budget is a whole number of millions
+769,GoodFellas,budget_is_round_estimate,budget is a whole number of millions
+105,Back to the Future,budget_is_round_estimate,budget is a whole number of millions
+121,The Lord of the Rings: The Two Towers,budget_is_round_estimate,budget is a whole number of millions
+122917,The Hobbit: The Battle of the Five Armies,budget_is_round_estimate,budget is a whole number of millions
+120,The Lord of the Rings: The Fellowship of the Ring,budget_is_round_estimate,budget is a whole number of millions
+22,Pirates of the Caribbean: The Curse of the Black Pearl,budget_is_round_estimate,budget is a whole number of millions
+24,Kill Bill: Vol. 1,budget_is_round_estimate,budget is a whole number of millions
+11,Star Wars,budget_is_round_estimate,budget is a whole number of millions
+278,The Shawshank Redemption,budget_is_round_estimate,budget is a whole number of millions
+1726,Iron Man,budget_is_round_estimate,budget is a whole number of millions
+863,Toy Story 2,budget_is_round_estimate,budget is a whole number of millions
+299534,Avengers: Endgame,budget_is_round_estimate,budget is a whole number of millions
+1572,Die Hard: With a Vengeance,budget_is_round_estimate,budget is a whole number of millions
+24428,The Avengers,budget_is_round_estimate,budget is a whole number of millions
+56292,Mission: Impossible - Ghost Protocol,budget_is_round_estimate,budget is a whole number of millions
+1893,Star Wars: Episode I - The Phantom Menace,budget_is_round_estimate,budget is a whole number of millions
+810,Shrek the Third,budget_is_round_estimate,budget is a whole number of millions
+122,The Lord of the Rings: The Return of the King,budget_is_round_estimate,budget is a whole number of millions
+68721,Iron Man 3,budget_is_round_estimate,budget is a whole number of millions
+603,The Matrix,budget_is_round_estimate,budget is a whole number of millions
+1422,The Departed,budget_is_round_estimate,budget is a whole number of millions
+27205,Inception,budget_is_round_estimate,budget is a whole number of millions
+9806,The Incredibles,budget_is_round_estimate,budget is a whole number of millions
+161,Ocean's Eleven,budget_is_round_estimate,budget is a whole number of millions
+862,Toy Story,budget_is_round_estimate,budget is a whole number of millions
+12445,Harry Potter and the Deathly Hallows: Part 2,budget_is_round_estimate,budget is a whole number of millions
+274,The Silence of the Lambs,budget_is_round_estimate,budget is a whole number of millions
+217,Indiana Jones and the Kingdom of the Crystal Skull,budget_is_round_estimate,budget is a whole number of millions
+87,Indiana Jones and the Temple of Doom,budget_is_round_estimate,budget is a whole number of millions
+8355,Ice Age: Dawn of the Dinosaurs,budget_is_round_estimate,budget is a whole number of millions
+2502,The Bourne Supremacy,budget_is_round_estimate,budget is a whole number of millions
+562,Die Hard,budget_is_round_estimate,budget is a whole number of millions
+808,Shrek,budget_is_round_estimate,budget is a whole number of millions
+1891,The Empire Strikes Back,budget_is_round_estimate,budget is a whole number of millions
+1124,The Prestige,budget_is_round_estimate,budget is a whole number of millions
+299536,Avengers: Infinity War,budget_is_round_estimate,budget is a whole number of millions
+111,Scarface,budget_is_round_estimate,budget is a whole number of millions
+41513,The Smurfs,budget_is_round_estimate,budget is a whole number of millions
+10681,WALL·E,budget_is_round_estimate,budget is a whole number of millions
+78,Blade Runner,budget_is_round_estimate,budget is a whole number of millions
+425,Ice Age,budget_is_round_estimate,budget is a whole number of millions
+329,Jurassic Park,budget_is_round_estimate,budget is a whole number of millions
+238,The Godfather,budget_is_round_estimate,budget is a whole number of millions
+240,The Godfather Part II,budget_is_round_estimate,budget is a whole number of millions
+301528,Toy Story 4,budget_is_round_estimate,budget is a whole number of millions
+163,Ocean's Twelve,budget_is_round_estimate,budget is a whole number of millions
+129,Spirited Away,budget_is_round_estimate,budget is a whole number of millions
+348,Alien,budget_is_round_estimate,budget is a whole number of millions
+12444,Harry Potter and the Deathly Hallows: Part 1,budget_is_round_estimate,budget is a whole number of millions
+13,Forrest Gump,budget_is_round_estimate,budget is a whole number of millions
+85,Raiders of the Lost Ark,budget_is_round_estimate,budget is a whole number of millions
+956,Mission: Impossible III,budget_is_round_estimate,budget is a whole number of millions
+605,The Matrix Revolutions,budget_is_round_estimate,budget is a whole number of millions
+550,Fight Club,budget_is_round_estimate,budget is a whole number of millions
+672,Harry Potter and the Chamber of Secrets,budget_is_round_estimate,budget is a whole number of millions
+1865,Pirates of the Caribbean: On Stranger Tides,budget_is_round_estimate,budget is a whole number of millions
+671,Harry Potter and the Philosopher's Stone,budget_is_round_estimate,budget is a whole number of millions
+77,Memento,budget_is_round_estimate,budget is a whole number of millions
+809,Shrek 2,budget_is_round_estimate,budget is a whole number of millions
+1571,Live Free or Die Hard,budget_is_round_estimate,budget is a whole number of millions
+954,Mission: Impossible,budget_is_round_estimate,budget is a whole number of millions
+950,Ice Age: The Meltdown,budget_is_round_estimate,budget is a whole number of millions
+675,Harry Potter and the Order of the Phoenix,budget_is_round_estimate,budget is a whole number of millions
+767,Harry Potter and the Half-Blood Prince,budget_is_round_estimate,budget is a whole number of millions
+298,Ocean's Thirteen,budget_is_round_estimate,budget is a whole number of millions
+285,Pirates of the Caribbean: At World's End,budget_is_round_estimate,budget is a whole number of millions
+99861,Avengers: Age of Ultron,budget_is_round_estimate,budget is a whole number of millions
+578,Jaws,budget_is_round_estimate,budget is a whole number of millions
+10193,Toy Story 3,budget_is_round_estimate,budget is a whole number of millions
+177677,Mission: Impossible - Rogue Nation,budget_is_round_estimate,budget is a whole number of millions
+585,"Monsters, Inc.",budget_is_round_estimate,budget is a whole number of millions
+57158,The Hobbit: The Desolation of Smaug,budget_is_round_estimate,budget is a whole number of millions
+280,Terminator 2: Judgment Day,budget_is_round_estimate,budget is a whole number of millions
+89,Indiana Jones and the Last Crusade,budget_is_round_estimate,budget is a whole number of millions
+1894,Star Wars: Episode II - Attack of the Clones,budget_is_round_estimate,budget is a whole number of millions
+2503,The Bourne Ultimatum,budget_is_round_estimate,budget is a whole number of millions
+76341,Mad Max: Fury Road,budget_is_round_estimate,budget is a whole number of millions
+2501,The Bourne Identity,budget_is_round_estimate,budget is a whole number of millions
+424,Schindler's List,budget_is_round_estimate,budget is a whole number of millions
+604,The Matrix Reloaded,budget_is_round_estimate,budget is a whole number of millions
+196,Back to the Future Part III,budget_is_round_estimate,budget is a whole number of millions
+393,Kill Bill: Vol. 2,budget_is_round_estimate,budget is a whole number of millions
+10192,Shrek Forever After,budget_is_round_estimate,budget is a whole number of millions
+534,Terminator Salvation,budget_is_round_estimate,budget is a whole number of millions
+330,The Lost World: Jurassic Park,budget_is_round_estimate,budget is a whole number of millions
+1895,Star Wars: Episode III - Revenge of the Sith,budget_is_round_estimate,budget is a whole number of millions
+272,Batman Begins,budget_is_round_estimate,budget is a whole number of millions
+49051,The Hobbit: An Unexpected Journey,budget_is_round_estimate,budget is a whole number of millions
+166426,Pirates of the Caribbean: Dead Men Tell No Tales,budget_is_round_estimate,budget is a whole number of millions
+157336,Interstellar,budget_is_round_estimate,budget is a whole number of millions
+620,Ghostbusters,budget_is_round_estimate,budget is a whole number of millions
+296,Terminator 3: Rise of the Machines,budget_is_round_estimate,budget is a whole number of millions
+8078,Alien Resurrection,budget_is_round_estimate,budget is a whole number of millions
+1892,Return of the Jedi,revenue_is_round_estimate,revenue is a whole number of 100k
+1891,The Empire Strikes Back,revenue_is_round_estimate,revenue is a whole number of 100k
+240,The Godfather Part II,revenue_is_round_estimate,revenue is a whole number of 100k
+429,"The Good, the Bad and the Ugly",revenue_is_round_estimate,revenue is a whole number of 100k
+585,"Monsters, Inc.",revenue_is_round_estimate,revenue is a whole number of 100k
+57158,The Hobbit: The Desolation of Smaug,revenue_is_round_estimate,revenue is a whole number of 100k
+1895,Star Wars: Episode III - Revenge of the Sith,revenue_is_round_estimate,revenue is a whole number of 100k
+296,Terminator 3: Rise of the Machines,revenue_is_round_estimate,revenue is a whole number of 100k
+8078,Alien Resurrection,revenue_is_round_estimate,revenue is a whole number of 100k
+1726,Iron Man,popularity_spike,popularity 379.6 vs median 16.6
+299534,Avengers: Endgame,popularity_spike,popularity 82.4 vs median 16.6
+8587,The Lion King,multiple_directors,2 directors
+299534,Avengers: Endgame,multiple_directors,2 directors
+603,The Matrix,multiple_directors,2 directors
+808,Shrek,multiple_directors,2 directors
+299536,Avengers: Infinity War,multiple_directors,2 directors
+605,The Matrix Revolutions,multiple_directors,2 directors
+809,Shrek 2,multiple_directors,3 directors
+604,The Matrix Reloaded,multiple_directors,2 directors
+166426,Pirates of the Caribbean: Dead Men Tell No Tales,multiple_directors,2 directors
+534,Terminator Salvation,actor_listed_twice,same actor appears more than once in the cast
+331,Jurassic Park III,franchise_incomplete_on_list,4 released entries of 'Jurassic Park Collection' not on the list
+955,Mission: Impossible II,franchise_incomplete_on_list,3 released entries of 'Mission: Impossible Collection' not on the list
+8587,The Lion King,franchise_incomplete_on_list,2 released entries of 'The Lion King Collection' not on the list
+1573,Die Hard 2,franchise_incomplete_on_list,1 released entries of 'Die Hard Collection' not on the list
+1892,Return of the Jedi,franchise_incomplete_on_list,3 released entries of 'Star Wars Collection' not on the list
+11,Star Wars,franchise_incomplete_on_list,3 released entries of 'Star Wars Collection' not on the list
+863,Toy Story 2,franchise_incomplete_on_list,1 released entries of 'Toy Story Collection' not on the list
+1572,Die Hard: With a Vengeance,franchise_incomplete_on_list,1 released entries of 'Die Hard Collection' not on the list
+56292,Mission: Impossible - Ghost Protocol,franchise_incomplete_on_list,3 released entries of 'Mission: Impossible Collection' not on the list
+1893,Star Wars: Episode I - The Phantom Menace,franchise_incomplete_on_list,3 released entries of 'Star Wars Collection' not on the list
+603,The Matrix,franchise_incomplete_on_list,1 released entries of 'The Matrix Collection' not on the list
+9806,The Incredibles,franchise_incomplete_on_list,1 released entries of 'The Incredibles Collection' not on the list
+862,Toy Story,franchise_incomplete_on_list,1 released entries of 'Toy Story Collection' not on the list
+274,The Silence of the Lambs,franchise_incomplete_on_list,2 released entries of 'The Hannibal Lecter Collection' not on the list
+217,Indiana Jones and the Kingdom of the Crystal Skull,franchise_incomplete_on_list,1 released entries of 'Indiana Jones Collection' not on the list
+87,Indiana Jones and the Temple of Doom,franchise_incomplete_on_list,1 released entries of 'Indiana Jones Collection' not on the list
+8355,Ice Age: Dawn of the Dinosaurs,franchise_incomplete_on_list,3 released entries of 'Ice Age Collection' not on the list
+2502,The Bourne Supremacy,franchise_incomplete_on_list,2 released entries of 'The Bourne Collection' not on the list
+562,Die Hard,franchise_incomplete_on_list,1 released entries of 'Die Hard Collection' not on the list
+1891,The Empire Strikes Back,franchise_incomplete_on_list,3 released entries of 'Star Wars Collection' not on the list
+41513,The Smurfs,franchise_incomplete_on_list,1 released entries of 'The Smurfs (Theatrical) Collection' not on the list
+78,Blade Runner,franchise_incomplete_on_list,1 released entries of 'Blade Runner Collection' not on the list
+425,Ice Age,franchise_incomplete_on_list,3 released entries of 'Ice Age Collection' not on the list
+329,Jurassic Park,franchise_incomplete_on_list,4 released entries of 'Jurassic Park Collection' not on the list
+301528,Toy Story 4,franchise_incomplete_on_list,1 released entries of 'Toy Story Collection' not on the list
+85,Raiders of the Lost Ark,franchise_incomplete_on_list,1 released entries of 'Indiana Jones Collection' not on the list
+956,Mission: Impossible III,franchise_incomplete_on_list,3 released entries of 'Mission: Impossible Collection' not on the list
+605,The Matrix Revolutions,franchise_incomplete_on_list,1 released entries of 'The Matrix Collection' not on the list
+1571,Live Free or Die Hard,franchise_incomplete_on_list,1 released entries of 'Die Hard Collection' not on the list
+954,Mission: Impossible,franchise_incomplete_on_list,3 released entries of 'Mission: Impossible Collection' not on the list
+950,Ice Age: The Meltdown,franchise_incomplete_on_list,3 released entries of 'Ice Age Collection' not on the list
+578,Jaws,franchise_incomplete_on_list,3 released entries of 'Jaws Collection' not on the list
+10193,Toy Story 3,franchise_incomplete_on_list,1 released entries of 'Toy Story Collection' not on the list
+177677,Mission: Impossible - Rogue Nation,franchise_incomplete_on_list,3 released entries of 'Mission: Impossible Collection' not on the list
+585,"Monsters, Inc.",franchise_incomplete_on_list,"1 released entries of 'Monsters, Inc. Collection' not on the list"
+280,Terminator 2: Judgment Day,franchise_incomplete_on_list,2 released entries of 'The Terminator Collection' not on the list
+89,Indiana Jones and the Last Crusade,franchise_incomplete_on_list,1 released entries of 'Indiana Jones Collection' not on the list
+1894,Star Wars: Episode II - Attack of the Clones,franchise_incomplete_on_list,3 released entries of 'Star Wars Collection' not on the list
+2503,The Bourne Ultimatum,franchise_incomplete_on_list,2 released entries of 'The Bourne Collection' not on the list
+76341,Mad Max: Fury Road,franchise_incomplete_on_list,4 released entries of 'Mad Max Collection' not on the list
+2501,The Bourne Identity,franchise_incomplete_on_list,2 released entries of 'The Bourne Collection' not on the list
+604,The Matrix Reloaded,franchise_incomplete_on_list,1 released entries of 'The Matrix Collection' not on the list
+218,The Terminator,franchise_incomplete_on_list,2 released entries of 'The Terminator Collection' not on the list
+534,Terminator Salvation,franchise_incomplete_on_list,2 released entries of 'The Terminator Collection' not on the list
+330,The Lost World: Jurassic Park,franchise_incomplete_on_list,4 released entries of 'Jurassic Park Collection' not on the list
+1895,Star Wars: Episode III - Revenge of the Sith,franchise_incomplete_on_list,3 released entries of 'Star Wars Collection' not on the list
+620,Ghostbusters,franchise_incomplete_on_list,3 released entries of 'Ghostbusters Collection' not on the list
+296,Terminator 3: Rise of the Machines,franchise_incomplete_on_list,2 released entries of 'The Terminator Collection' not on the list

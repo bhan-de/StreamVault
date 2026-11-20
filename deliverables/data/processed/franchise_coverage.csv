@@ -1,0 +1,33 @@
+collection_id,collection_name,released_films,on_list,avg_rating_on_list,avg_rating_not_on_list,complete
+10,Star Wars Collection,9,6,7.53,6.73,False
+84,Indiana Jones Collection,5,4,7.28,6.49,False
+119,The Lord of the Rings Collection,3,3,8.46,,True
+230,The Godfather Collection,3,3,8.23,,True
+263,The Dark Knight Collection,3,3,8.02,,True
+264,Back to the Future Collection,3,3,7.87,,True
+295,Pirates of the Caribbean Collection,5,5,7.15,,True
+304,Ocean's Collection,3,3,6.93,,True
+328,Jurassic Park Collection,7,3,6.91,6.51,False
+528,The Terminator Collection,6,4,7.05,6.19,False
+1241,Harry Potter Collection,8,8,7.82,,True
+1570,Die Hard Collection,5,4,7.18,5.32,False
+2150,Shrek Collection,4,4,6.96,,True
+2344,The Matrix Collection,4,3,7.37,6.3,False
+2366,Jaws Collection,4,1,7.69,4.88,False
+2883,Kill Bill Collection,2,2,7.92,,True
+2980,Ghostbusters Collection,4,1,7.5,6.77,False
+8091,Alien Collection,4,4,7.18,,True
+8354,Ice Age Collection,6,3,6.97,6.34,False
+8945,Mad Max Collection,5,1,7.64,6.93,False
+9743,The Hannibal Lecter Collection,3,1,8.35,6.92,False
+10194,Toy Story Collection,5,4,7.72,8.24,False
+31562,The Bourne Collection,5,3,7.43,6.32,False
+86311,The Avengers Collection,4,4,7.96,,True
+87359,Mission: Impossible Collection,8,5,6.84,7.39,False
+94032,The Lion King Collection,3,1,8.25,6.77,False
+121938,The Hobbit Collection,3,3,7.44,,True
+131292,Iron Man Collection,3,3,7.15,,True
+134897,The Smurfs (Theatrical) Collection,2,1,5.75,5.75,False
+137696,"Monsters, Inc. Collection",2,1,7.86,7.06,False
+422837,Blade Runner Collection,2,1,7.94,7.62,False
+468222,The Incredibles Collection,2,1,7.73,7.45,False

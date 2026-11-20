@@ -1,0 +1,36 @@
+# All settings live here, so next year's run means editing this file, not the code.
+
+[input]
+id_list = "data/input/id_list.csv"   # one column of TMDb ids, header "tmdb_id"
+id_column = "tmdb_id"
+
+[analysis]
+modern_cutoff_year = 2000            # second window: releases from this year onward
+weak_rating = 6.5                    # a film rated below this counts as a "weak entry"
+as_of_date = ""                      # "" = today. Set e.g. "2026-11-20" to repeat a past run exactly
+
+[budget]
+rerun_seconds = 10                   # agreed: a rerun from saved data must finish within this
+
+[talent]
+min_films = 3                        # a person needs at least this many scored films
+min_independent_titles = 2           # ...across at least this many different franchises/standalones
+lead_billing_positions = 2           # "lead actor" = one of the top 2 billed (top 1 alone misfires, e.g. a voice cameo)
+
+[spot_check]
+sample_size = 8
+seed = 2026                          # change to pick a different random set
+
+[api]
+base_url = "https://api.themoviedb.org/3"
+# Read from the environment / .env, never from code. First name found wins:
+# TMDB_API_TOKEN on a laptop (.env), API_Read_Access_Token in the cloud environment.
+token_env_vars = ["TMDB_API_TOKEN", "API_Read_Access_Token"]
+max_requests_per_second = 4          # deliberately polite for a shared free API
+max_retries = 5
+
+[paths]
+cache = "data/raw/tmdb_cache"        # requests-cache SQLite file (raw JSON responses)
+raw_movies = "data/raw/movies"         # one JSON file per fetched film
+raw_collections = "data/raw/collections"   # one JSON file per franchise (full film list)
+processed = "data/processed"

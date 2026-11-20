@@ -1,0 +1,29 @@
+collection_id,collection_name,films,on_list,total_revenue,total_budget,mean_rating,worst_rating,weak_films,first_year,pooled_roi,films_with_money,pre_2000_share,score,money_data_incomplete
+119,The Lord of the Rings Collection,3,3,2916544743.0,266000000.0,8.46,8.43,0,2001,10.96,3,0.0,1.0,False
+86311,The Avengers Collection,4,4,7919284026.0,1111000000.0,7.96,7.28,0,2012,7.13,4,0.0,0.927,False
+1241,Harry Potter Collection,8,8,7759777709.0,1280000000.0,7.82,7.67,0,2001,6.06,8,0.0,0.837,False
+2883,Kill Bill Collection,2,2,333065537.0,60000000.0,7.92,7.87,0,2003,5.55,2,0.0,0.835,False
+468222,The Incredibles Collection,2,1,1874667759.0,292000000.0,7.59,7.45,0,2004,6.42,2,0.0,0.819,False
+10194,Toy Story Collection,3,2,3289189956.0,625000000.0,7.84,7.46,0,2010,5.26,3,0.0,0.799,False
+263,The Dark Knight Collection,3,3,2463740489.0,585000000.0,8.01,7.73,0,2005,4.21,3,0.0,0.76,False
+2150,Shrek Collection,4,4,2983130036.0,535000000.0,6.96,6.32,2,2001,5.58,4,0.0,0.64,False
+137696,"Monsters, Inc. Collection",2,1,1393559465.0,330000000.0,7.46,7.06,0,2001,4.22,2,0.0,0.636,False
+131292,Iron Man Collection,3,3,2424684758.0,540000000.0,7.15,6.86,0,2008,4.49,3,0.0,0.628,False
+8354,Ice Age Collection,6,3,3216766529.0,429000000.0,6.65,6.12,2,2002,7.5,5,0.0,0.606,True
+121938,The Hobbit Collection,3,3,2935523356.0,750000000.0,7.44,7.34,0,2012,3.91,3,0.0,0.544,False
+10,Star Wars Collection,5,2,5976173906.0,1267900000.0,6.86,6.24,1,2002,4.71,5,0.0,0.53,False
+295,Pirates of the Caribbean Collection,5,5,4525525744.0,1249000000.0,7.15,6.58,0,2003,3.62,5,0.0,0.498,False
+304,Ocean's Collection,3,3,1124774054.0,280000000.0,6.93,6.57,0,2001,4.02,3,0.0,0.455,False
+31562,The Bourne Collection,5,3,1637443493.0,455000000.0,6.98,6.26,2,2002,3.6,5,0.0,0.435,False
+422837,Blade Runner Collection,1,0,259239658.0,150000000.0,7.62,7.62,0,2017,1.73,1,0.0,0.411,False
+87359,Mission: Impossible Collection,7,4,4316361487.0,1368000000.0,7.05,6.14,1,2000,3.16,7,0.0,0.397,False
+8945,Mad Max Collection,2,1,553145886.0,318000000.0,7.54,7.44,0,2015,1.74,2,0.0,0.394,False
+328,Jurassic Park Collection,5,1,5223938071.0,1251800000.0,6.44,6.18,2,2001,4.17,5,0.0,0.349,False
+9743,The Hannibal Lecter Collection,2,0,560888566.0,165000000.0,6.92,6.78,0,2001,3.4,2,0.0,0.345,False
+134897,The Smurfs (Theatrical) Collection,2,1,911183501.0,215000000.0,5.75,5.75,2,2011,4.24,2,0.0,0.333,False
+2344,The Matrix Collection,3,2,1320085234.0,490000000.0,6.72,6.3,1,2003,2.69,3,0.0,0.254,False
+2980,Ghostbusters Collection,2,0,406413268.0,175000000.0,6.85,6.41,1,2021,2.32,2,0.0,0.235,False
+1570,Die Hard Collection,2,1,688185646.0,202000000.0,5.98,5.32,1,2007,3.41,2,0.0,0.202,False
+84,Indiana Jones Collection,2,1,1170599090.0,479700000.0,6.26,6.03,2,2008,2.44,2,0.0,0.164,False
+528,The Terminator Collection,4,2,1508075830.0,740000000.0,6.17,5.96,4,2003,2.04,4,0.0,0.109,False
+94032,The Lion King Collection,1,0,0.0,0.0,6.59,6.59,0,2004,,0,0.0,,True

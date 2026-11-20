@@ -1,0 +1,9 @@
+check,films_affected,examples,share_of_films
+budget_is_round_estimate,107,The Dark Knight; Back to the Future Part II; The Godfather Part III; The Dark Knight Rises,0.955
+franchise_incomplete_on_list,48,Jurassic Park III; Mission: Impossible II; The Lion King; Die Hard 2,0.429
+pre_cutoff_release,41,Back to the Future Part II; The Godfather Part III; Alien³; Pulp Fiction,0.366
+multiple_directors,9,The Lion King; Avengers: Endgame; The Matrix; Shrek,0.08
+single_film_collection,9,The Lion King; The Incredibles; The Silence of the Lambs; The Smurfs,0.08
+revenue_is_round_estimate,9,"Return of the Jedi; The Empire Strikes Back; The Godfather Part II; The Good, the Bad and the Ugly",0.08
+popularity_spike,2,Iron Man; Avengers: Endgame,0.018
+actor_listed_twice,1,Terminator Salvation,0.009

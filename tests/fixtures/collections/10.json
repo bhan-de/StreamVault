@@ -1,0 +1,4 @@
+{"id": 10, "name": "Alpha Collection", "parts": [
+ {"id": 1, "title": "Alpha", "release_date": "1995-06-01", "vote_average": 7.0, "vote_count": 100},
+ {"id": 3, "title": "Alpha 2", "release_date": "1998-06-01", "vote_average": 5.0, "vote_count": 80},
+ {"id": 4, "title": "Alpha 3", "release_date": "", "vote_average": 0.0, "vote_count": 0}]}

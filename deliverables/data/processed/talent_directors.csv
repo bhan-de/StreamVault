@@ -1,0 +1,87 @@
+person_id,name,films,independent_titles,mean_film_score,share_above_median,titles,signal
+24,Robert Zemeckis,4,2,0.778,1.0,Back to the Future; Back to the Future Part II; Back to the Future Part III; Forrest Gump,True
+138,Quentin Tarantino,3,2,0.747,1.0,Kill Bill: Vol. 1; Kill Bill: Vol. 2; Pulp Fiction,True
+2710,James Cameron,3,2,0.736,1.0,Aliens; Terminator 2: Judgment Day; The Terminator,True
+488,Steven Spielberg,8,4,0.691,0.75,Indiana Jones and the Kingdom of the Crystal Skull; Indiana Jones and the Last Crusade; Indiana Jones and the Temple of Doom; Jaws; Jurassic Park; Raiders of the Lost Ark,True
+108,Peter Jackson,6,2,0.653,0.5,The Hobbit: An Unexpected Journey; The Hobbit: The Battle of the Five Armies; The Hobbit: The Desolation of Smaug; The Lord of the Rings: The Fellowship of the Ring; The Lord of the Rings: The Return of the King; The Lord of the Rings: The Two Towers,True
+525,Christopher Nolan,7,5,0.604,0.857,Batman Begins; Inception; Interstellar; Memento; The Dark Knight; The Dark Knight Rises,True
+7087,Brad Bird,3,2,0.549,0.667,Incredibles 2; Mission: Impossible - Ghost Protocol; The Incredibles,True
+578,Ridley Scott,3,3,0.512,0.333,Alien; Blade Runner; Hannibal,True
+15344,J.J. Abrams,3,2,0.307,0.333,Mission: Impossible III; Star Wars: The Force Awakens; Star Wars: The Rise of Skywalker,True
+4385,Sergio Leone,1,1,0.956,1.0,"The Good, the Bad and the Ugly",False
+608,Hayao Miyazaki,1,1,0.943,1.0,Spirited Away,False
+10930,Irvin Kershner,1,1,0.932,1.0,The Empire Strikes Back,False
+15812,Roger Allers,1,1,0.899,1.0,The Lion King,False
+18898,Rob Minkoff,1,1,0.899,1.0,The Lion King,False
+16294,Jonathan Demme,1,1,0.895,1.0,The Silence of the Lambs,False
+19800,Richard Marquand,1,1,0.828,1.0,Return of the Jedi,False
+19271,Anthony Russo,2,1,0.786,1.0,Avengers: Endgame; Avengers: Infinity War,False
+19272,Joe Russo,2,1,0.786,1.0,Avengers: Endgame; Avengers: Infinity War,False
+1776,Francis Ford Coppola,3,1,0.717,0.667,The Godfather; The Godfather Part II; The Godfather Part III,False
+10965,Chris Columbus,2,1,0.71,1.0,Harry Potter and the Chamber of Secrets; Harry Potter and the Philosopher's Stone,False
+7879,John Lasseter,2,1,0.701,1.0,Toy Story; Toy Story 2,False
+11218,Alfonso Cuarón,1,1,0.693,1.0,Harry Potter and the Prisoner of Azkaban,False
+12058,Vicky Jenson,1,1,0.686,1.0,Shrek,False
+10723,Mike Newell,1,1,0.632,1.0,Harry Potter and the Goblet of Fire,False
+12891,Joss Whedon,2,1,0.62,0.5,Avengers: Age of Ultron; The Avengers,False
+8,Lee Unkrich,1,1,0.617,1.0,Toy Story 3,False
+5524,Andrew Adamson,2,1,0.614,1.0,Shrek; Shrek 2,False
+1,George Lucas,4,1,0.608,0.75,Star Wars; Star Wars: Episode I - The Phantom Menace; Star Wars: Episode II - Attack of the Clones; Star Wars: Episode III - Revenge of the Sith,False
+12890,Pete Docter,1,1,0.598,1.0,"Monsters, Inc.",False
+11343,David Yates,4,1,0.594,0.5,Harry Potter and the Deathly Hallows: Part 1; Harry Potter and the Deathly Hallows: Part 2; Harry Potter and the Half-Blood Prince; Harry Potter and the Order of the Phoenix,False
+7,Andrew Stanton,2,2,0.578,1.0,Toy Story 5; WALL·E,False
+84496,Josh Cooley,1,1,0.574,1.0,Toy Story 4,False
+5713,Chris Wedge,1,1,0.561,1.0,Ice Age,False
+8858,Ivan Reitman,2,1,0.551,0.5,Ghostbusters; Ghostbusters II,False
+12079,Kelly Asbury,1,1,0.541,1.0,Shrek 2,False
+12080,Conrad Vernon,1,1,0.541,1.0,Shrek 2,False
+5714,Carlos Saldanha,2,1,0.537,1.0,Ice Age: Dawn of the Dinosaurs; Ice Age: The Meltdown,False
+1032,Martin Scorsese,2,2,0.514,1.0,GoodFellas; The Departed,False
+4027,Frank Darabont,1,1,0.51,1.0,The Shawshank Redemption,False
+1090,John McTiernan,2,1,0.492,0.5,Die Hard; Die Hard: With a Vengeance,False
+9339,Lilly Wachowski,3,1,0.487,0.333,The Matrix; The Matrix Reloaded; The Matrix Revolutions,False
+1108,Shane Black,1,1,0.476,0.0,Iron Man 3,False
+71729,Steve Martino,1,1,0.473,0.0,Ice Age: Continental Drift,False
+1150,Brian De Palma,2,2,0.472,0.0,Mission: Impossible; Scarface,False
+1704,Gore Verbinski,3,1,0.468,0.667,Pirates of the Caribbean: At World's End; Pirates of the Caribbean: Dead Man's Chest; Pirates of the Caribbean: The Curse of the Black Pearl,False
+51894,J. A. Bayona,1,1,0.453,0.0,Jurassic World: Fallen Kingdom,False
+16187,Jeannot Szwarc,1,1,0.426,0.0,Jaws 2,False
+20629,George Miller,5,1,0.422,0.4,Furiosa: A Mad Max Saga; Mad Max; Mad Max 2; Mad Max Beyond Thunderdome; Mad Max: Fury Road,False
+6431,Darren Aronofsky,1,1,0.419,0.0,Requiem for a Dream,False
+11694,Doug Liman,1,1,0.412,0.0,The Bourne Identity,False
+25598,Paul Greengrass,3,1,0.394,0.333,Jason Bourne; The Bourne Supremacy; The Bourne Ultimatum,False
+9340,Lana Wachowski,4,1,0.382,0.25,The Matrix; The Matrix Reloaded; The Matrix Resurrections; The Matrix Revolutions,False
+15277,Jon Favreau,2,1,0.378,0.0,Iron Man; Iron Man 2,False
+9033,Christopher McQuarrie,4,1,0.364,0.0,Mission: Impossible - Dead Reckoning Part One; Mission: Impossible - Fallout; Mission: Impossible - Rogue Nation; Mission: Impossible - The Final Reckoning,False
+1884,Steven Soderbergh,3,1,0.352,0.333,Ocean's Eleven; Ocean's Thirteen; Ocean's Twelve,False
+67367,Rian Johnson,1,1,0.348,0.0,Star Wars: The Last Jedi,False
+229962,Michael Thurmeier,2,1,0.343,0.0,Ice Age: Collision Course; Ice Age: Continental Drift,False
+930707,Colin Trevorrow,2,1,0.342,0.5,Jurassic World; Jurassic World Dominion,False
+7467,David Fincher,2,2,0.338,0.0,Alien³; Fight Club,False
+225976,Dan Scanlon,1,1,0.334,0.0,Monsters University,False
+12098,Chris Miller,1,1,0.324,0.0,Shrek the Third,False
+137427,Denis Villeneuve,1,1,0.318,0.0,Blade Runner 2049,False
+64151,Mike Mitchell,1,1,0.314,0.0,Shrek Forever After,False
+16938,Renny Harlin,1,1,0.301,0.0,Die Hard 2,False
+129894,Gareth Edwards,1,1,0.299,0.0,Jurassic World Rebirth,False
+52443,Jason Reitman,1,1,0.296,0.0,Ghostbusters: Afterlife,False
+3950,Len Wiseman,1,1,0.267,0.0,Live Free or Die Hard,False
+20307,Joachim Rønning,1,1,0.264,0.0,Pirates of the Caribbean: Dead Men Tell No Tales,False
+20308,Espen Sandberg,1,1,0.264,0.0,Pirates of the Caribbean: Dead Men Tell No Tales,False
+11091,Brett Ratner,1,1,0.26,0.0,Red Dragon,False
+11401,John Woo,1,1,0.247,0.0,Mission: Impossible II,False
+4945,Joe Johnston,1,1,0.226,0.0,Jurassic Park III,False
+1215,Raja Gosnell,2,1,0.213,0.0,The Smurfs; The Smurfs 2,False
+8558,Joe Alves,1,1,0.209,0.0,Jaws 3-D,False
+17633,Rob Marshall,1,1,0.206,0.0,Pirates of the Caribbean: On Stranger Tides,False
+57433,George Ogilvie,1,1,0.203,0.0,Mad Max Beyond Thunderdome,False
+12028,John Moore,1,1,0.142,0.0,A Good Day to Die Hard,False
+57193,Gil Kenan,1,1,0.128,0.0,Ghostbusters: Frozen Empire,False
+47005,Alan Taylor,1,1,0.125,0.0,Terminator Genisys,False
+19242,Tony Gilroy,1,1,0.111,0.0,The Bourne Legacy,False
+366,James Mangold,1,1,0.105,0.0,Indiana Jones and the Dial of Destiny,False
+2419,Jean-Pierre Jeunet,1,1,0.105,0.0,Alien Resurrection,False
+7213,Jonathan Mostow,1,1,0.101,0.0,Terminator 3: Rise of the Machines,False
+55252,Tim Miller,1,1,0.101,0.0,Terminator: Dark Fate,False
+36425,McG,1,1,0.071,0.0,Terminator Salvation,False
+15663,Joseph Sargent,1,1,0.064,0.0,Jaws: The Revenge,False

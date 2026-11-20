@@ -1,0 +1,17 @@
+window,group,films,films_with_money,median_roi,median_rating,weak_share,single_film_rule,view,films_scored,mean_combined_score
+all years,franchise,135,132,5.062,7.342,0.2,franchise,full_bundle,132,0.483
+all years,standalone,16,16,3.845,8.444,0.0,franchise,full_bundle,16,0.668
+2000 onward,franchise,94,92,4.5,7.258,0.223,franchise,full_bundle,92,0.426
+2000 onward,standalone,8,8,3.845,8.188,0.0,franchise,full_bundle,8,0.617
+all years,franchise,96,96,5.624,7.602,0.104,franchise,list_only,96,0.483
+all years,standalone,16,16,3.845,8.444,0.0,franchise,list_only,16,0.632
+2000 onward,franchise,63,63,5.052,7.45,0.127,franchise,list_only,63,0.416
+2000 onward,standalone,8,8,3.845,8.188,0.0,franchise,list_only,8,0.568
+all years,franchise,108,107,5.077,7.389,0.185,standalone,full_bundle,107,0.473
+all years,standalone,25,25,5.0,8.2,0.04,standalone,full_bundle,25,0.634
+2000 onward,franchise,80,79,4.592,7.258,0.225,standalone,full_bundle,79,0.415
+2000 onward,standalone,12,12,4.488,8.145,0.083,standalone,full_bundle,12,0.548
+all years,franchise,87,87,5.526,7.491,0.103,standalone,list_only,87,0.475
+all years,standalone,25,25,5.0,8.2,0.04,standalone,list_only,25,0.605
+2000 onward,franchise,59,59,5.052,7.393,0.119,standalone,list_only,59,0.417
+2000 onward,standalone,12,12,4.488,8.145,0.083,standalone,list_only,12,0.512
